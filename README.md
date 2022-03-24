@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @44CB7913
-- 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning ... Cyber L6
+- 👀 I’m interested in ... Cyber Security, Networking & Cloud
+- 🌱 I’m currently learning ... AWS & PM
 - 💞️ I’m looking to collaborate on ... Automation
 - 📫 How to reach me ... Signal
 
